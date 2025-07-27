@@ -35,3 +35,21 @@ A basic simulation of an ATM using Java.
 javac Main.java
 java Main
 
+---
+
+### 3.Calculator Program
+
+    This is a basic Java program that performs simple mathematical operations:
+
+  **Features:**
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Division
+
+  **How to Run:**
+  
+  javac Calc.java
+  java Calc.java
+
+  ---
