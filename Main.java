@@ -1,5 +1,7 @@
 
 import java.util.Scanner;
+
+
 class Atm{
     Scanner sc;
     public Atm(Scanner scanner){
